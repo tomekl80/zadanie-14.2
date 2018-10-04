@@ -12,6 +12,24 @@ var movies = [
 		title: 'Król Lew',
 		desc: 'Film opowiadający historię króla sawanny',
 		image: 'images/lion_king.jpg'
+	},
+	{
+		id: 3,
+		title: 'Miasto Aniołów',
+		desc: 'Film o zejściu anioła na ziemię',
+		image: 'images/city_of_angels.jpg'
+	},
+	{
+		id: 4,
+		title: 'Kung fu Panda',
+		desc: 'Film o sympatycznej pandzie ćwiczącej kung fu',
+		image: '/images/kung_fu_panda.jpg'
+	},
+	{
+		id: 5,
+		title: 'Listy do M',
+		desc: 'Film ukazujący perypetie kilkoro ludzi',
+		image: 'images/listy_do_m.jpg'
 	}
 ];
 
